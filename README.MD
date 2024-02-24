@@ -1,0 +1,1 @@
+This repository was created for the Udemy course: "Learn Programming With Go (Golang) One Game at a Time". You know what they say... If you don't write, you will never learn :)

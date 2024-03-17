@@ -68,4 +68,5 @@ intellectReq - 5
 
 Extra challenges:
 Implement a game log which prints all events which occur throughout the game (see examples below)
-Implement consumables which give you an attribute boost (strength, agility, intellect) for a limited duration (e.g. 3 turns). This allows you to buy and use items without having the proper training yet but only for a limited duration
+Implement consumables which give you an attribute boost (strength, agility, intellect) for a limited duration (e.g. 3 turns).
+This allows you to buy and use items without having the proper training yet but only for a limited duration
